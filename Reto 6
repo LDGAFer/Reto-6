@@ -1,0 +1,9 @@
+public class MiClase  {
+  F valor = 50 o menos;
+  E valor = 51 a 60;
+  D valor = 61 a 70;
+  C valor = 71 a 80;
+  B valor = 81 a 90;
+  A valor = 91 a 100;
+boolean valor_logico = false;
+}
